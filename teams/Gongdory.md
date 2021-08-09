@@ -17,7 +17,7 @@
 | GitHub ID | 스크린샷 링크 |
 | --------- | ------------- |
 | [@Yuna9949](https://github.com/Yuna9949) | *링크를 남겨주세요* |
-| [@DoltAmelia](https://github.com/DoltAmelia) | *링크를 남겨주세요* |
+| [@DoltAmelia](https://github.com/DoltAmelia) | https://user-images.githubusercontent.com/88205708/128653436-e4e8c7d2-11a5-4ee6-9fc0-55583ae9bb8a.png |
 | [@fazerlover](https://github.com/fazerlover) | *링크를 남겨주세요* |
 
 
